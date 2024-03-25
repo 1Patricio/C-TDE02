@@ -1,0 +1,15 @@
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\anderson.patricio\Desktop\Aula\Program\bin\Debug\net7.0\Program.exe
+C:\Users\anderson.patricio\Desktop\Aula\Program\bin\Debug\net7.0\Program.deps.json
+C:\Users\anderson.patricio\Desktop\Aula\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+C:\Users\anderson.patricio\Desktop\Aula\Program\bin\Debug\net7.0\Program.dll
+C:\Users\anderson.patricio\Desktop\Aula\Program\bin\Debug\net7.0\Program.pdb
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.dll
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\refint\Program.dll
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.pdb
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+C:\Users\anderson.patricio\Desktop\Aula\Program\obj\Debug\net7.0\ref\Program.dll
